@@ -1,0 +1,1382 @@
+# depslib dependency file v1.0
+1437504834 source:c:\users\alexander\documents\starlight\src\starlight\engine\camera.cpp
+	"camera.h"
+
+1437504835 c:\users\alexander\documents\starlight\src\starlight\engine\camera.h
+	<stdio.h>
+
+1438087109 source:c:\users\alexander\documents\starlight\src\engine\camera.cpp
+	"camera.h"
+
+1438087120 c:\users\alexander\documents\starlight\src\engine\camera.h
+	<stdio.h>
+
+1437864206 source:c:\users\alexander\documents\starlight\src\engine\display.cpp
+	"display.h"
+	<stdio.h>
+
+1437864203 c:\users\alexander\documents\starlight\src\engine\display.h
+	<string>
+	<SDL2/SDL.h>
+	"camera.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\begin_code.h
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\close_code.h
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1438116649 source:c:\users\alexander\documents\starlight\src\engine\graphic.cpp
+	"graphic.h"
+	<SDL2/SDL_image.h>
+
+1438116649 c:\users\alexander\documents\starlight\src\engine\graphic.h
+	"display.h"
+
+1376159942 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1437510904 source:c:\users\alexander\documents\starlight\src\main.c
+
+1438722373 source:c:\users\alexander\documents\starlight\src\engine\engine.cpp
+	"engine.h"
+
+1438799328 c:\users\alexander\documents\starlight\src\engine\engine.h
+	"../NetNight/NetNight.hpp"
+	"graphic.h"
+	"framenrate.h"
+	"input.h"
+	"entity.h"
+	"control.h"
+
+1437780540 source:c:\users\alexander\documents\starlight\src\main.cpp
+	"engine/engine.h"
+
+1438093661 c:\users\alexander\documents\starlight\src\engine\input.h
+	<SDL2/SDL.h>
+
+1438129386 source:c:\users\alexander\documents\starlight\src\engine\input.cpp
+	"input.h"
+
+1438038528 source:c:\users\alexander\documents\starlight\src\entity\cell.cpp
+	"cell.h"
+	"stdint.h"
+	"SDL2/SDL.h"
+
+1438038398 c:\users\alexander\documents\starlight\src\entity\cell.h
+	"graphic.h"
+
+1438809876 source:c:\users\alexander\documents\starlight\src\entity\entity.cpp
+	"entity.h"
+
+1438799328 c:\users\alexander\documents\starlight\src\entity\entity.h
+	<stdio.h>
+	"cell.h"
+
+1438799328 c:\users\alexander\documents\starlight\src\entity\\entity.h
+	<stdio.h>
+	"cell.h"
+
+1438038398 c:\users\alexander\documents\starlight\src\entity\\cell.h
+	"graphic.h"
+
+1438087787 c:\users\alexander\documents\starlight\src\engine\framenrate.h
+	<SDL2/SDL.h>
+	<vector>
+
+1438087787 source:c:\users\alexander\documents\starlight\src\engine\framenrate.cpp
+	"framenrate.h"
+	<stdio.h>
+
+1438190307 c:\users\alexander\documents\starlight\src\netnight\netnight.hpp
+	<stdio.h>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+
+1376160111 c:\users\alexander\documents\sdl2_64\include\sdl2\sdl_net.h
+	<stdint.h>
+	"SDL.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1438190585 source:c:\users\alexander\documents\starlight\src\netnight\netnight.cpp
+	"NetNight.hpp"
+
+1438799255 source:c:\users\alexander\documents\starlight\src\engine\control.cpp
+	"control.h"
+	<SDL2/SDL_image.h>
+
+1438799218 c:\users\alexander\documents\starlight\src\engine\control.h
+	"graphic.h"
+	"input.h"
+
+1438087109 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\camera.cpp
+	"camera.h"
+
+1438087120 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\camera.h
+	<stdio.h>
+
+1459211477 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\control.cpp
+	"control.h"
+	<SDL2/SDL_image.h>
+
+1439467615 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\control.h
+	"graphic.h"
+	"input.h"
+	"entity.h"
+
+1457884569 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\graphic.h
+	"display.h"
+
+1437864203 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\display.h
+	<string>
+	<SDL2/SDL.h>
+	"camera.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\begin_code.h
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\close_code.h
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1462713897 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1439469381 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\input.h
+	<SDL2/SDL.h>
+
+1376159942 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1437864206 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\display.cpp
+	"display.h"
+	<stdio.h>
+
+1459215999 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\engine.cpp
+	"engine.h"
+
+1458322075 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\engine.h
+	"../NetNight/NetNight.hpp"
+	"graphic.h"
+	"framenrate.h"
+	"input.h"
+	"entity.h"
+	"control.h"
+	"../front/front.h"
+
+1438190307 c:\users\thelightalex\documents\projekte 2015\starlight\src\netnight\netnight.hpp
+	<stdio.h>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+
+1376160111 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_net.h
+	<stdint.h>
+	"SDL.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1438087787 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\framenrate.h
+	<SDL2/SDL.h>
+	<vector>
+
+1459216318 c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\\entity.h
+	<stdio.h>
+	"cell.h"
+	"../front/front.h"
+
+1459215999 c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\\cell.h
+	"graphic.h"
+	"cell_image.h"
+
+1457735372 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\framenrate.cpp
+	"framenrate.h"
+	<stdio.h>
+
+1456668333 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\graphic.cpp
+	"graphic.h"
+	<SDL2/SDL_image.h>
+
+1439469437 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\input.cpp
+	"input.h"
+
+1457884569 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\cell.cpp
+	"cell.h"
+	"stdint.h"
+	"SDL2/SDL.h"
+
+1459215999 c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\cell.h
+	"graphic.h"
+	"cell_image.h"
+
+1459216300 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\entity.cpp
+	"entity.h"
+
+1459216318 c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\entity.h
+	<stdio.h>
+	"cell.h"
+	"../front/front.h"
+
+1456669161 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\main.cpp
+	"engine/engine.h"
+	"engine/transmission.h"
+
+1438190585 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\netnight\netnight.cpp
+	"NetNight.hpp"
+
+1438087109 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\camera.cpp
+	"camera.h"
+
+1438087120 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\camera.h
+	<stdio.h>
+
+1459211477 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\control.cpp
+	"control.h"
+	<SDL2/SDL_image.h>
+
+1439467615 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\control.h
+	"graphic.h"
+	"input.h"
+	"entity.h"
+
+1457884569 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\graphic.h
+	"display.h"
+
+1437864203 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\display.h
+	<string>
+	<SDL2/SDL.h>
+	"camera.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\begin_code.h
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\close_code.h
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420908459 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1439469381 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\input.h
+	<SDL2/SDL.h>
+
+1459216318 c:\users\pyrun\documents\projekte 2015\starlight\src\entity\\entity.h
+	<stdio.h>
+	"cell.h"
+	"../front/front.h"
+
+1459215999 c:\users\pyrun\documents\projekte 2015\starlight\src\entity\\cell.h
+	"graphic.h"
+	"cell_image.h"
+
+1376159942 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1437864206 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\display.cpp
+	"display.h"
+	<stdio.h>
+
+1459215999 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\engine.cpp
+	"engine.h"
+
+1458322075 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\engine.h
+	"../NetNight/NetNight.hpp"
+	"graphic.h"
+	"framenrate.h"
+	"input.h"
+	"entity.h"
+	"control.h"
+	"../front/front.h"
+
+1438190307 c:\users\pyrun\documents\projekte 2015\starlight\src\netnight\netnight.hpp
+	<stdio.h>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+
+1376160111 c:\users\pyrun\documents\projekte 2015\sdl2_64\include\sdl2\sdl_net.h
+	<stdint.h>
+	"SDL.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1438087787 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\framenrate.h
+	<SDL2/SDL.h>
+	<vector>
+
+1457735372 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\framenrate.cpp
+	"framenrate.h"
+	<stdio.h>
+
+1456668333 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\graphic.cpp
+	"graphic.h"
+	<SDL2/SDL_image.h>
+
+1439469437 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\input.cpp
+	"input.h"
+
+1457884569 source:c:\users\pyrun\documents\projekte 2015\starlight\src\entity\cell.cpp
+	"cell.h"
+	"stdint.h"
+	"SDL2/SDL.h"
+
+1459215999 c:\users\pyrun\documents\projekte 2015\starlight\src\entity\cell.h
+	"graphic.h"
+	"cell_image.h"
+
+1456669161 source:c:\users\pyrun\documents\projekte 2015\starlight\src\main.cpp
+	"engine/engine.h"
+	"engine/transmission.h"
+
+1438190585 source:c:\users\pyrun\documents\projekte 2015\starlight\src\netnight\netnight.cpp
+	"NetNight.hpp"
+
+1459216300 source:c:\users\pyrun\documents\projekte 2015\starlight\src\entity\entity.cpp
+	"entity.h"
+
+1459216318 c:\users\pyrun\documents\projekte 2015\starlight\src\entity\entity.h
+	<stdio.h>
+	"cell.h"
+	"../front/front.h"
+
+1456097640 c:\users\pyrun\documents\projekte 2015\starlight\src\entity\\cell_image.h
+
+1456097640 c:\users\pyrun\documents\projekte 2015\starlight\src\entity\cell_image.h
+
+1456181610 source:c:\users\pyrun\documents\projekte 2015\starlight\src\entity\cell_image.cpp
+	"cell_image.h"
+
+1456356130 source:c:\users\pyrun\documents\projekte 2015\starlight\src\engine\transmission.cpp
+	"transmission.h"
+
+1456356029 c:\users\pyrun\documents\projekte 2015\starlight\src\engine\transmission.h
+	<stdio.h>
+
+1456429413 source:c:\users\pyrun\documents\projekte 2015\starlight\src\entity\team.cpp
+	"team.h"
+
+1456429411 c:\users\pyrun\documents\projekte 2015\starlight\src\entity\team.h
+	"entity.h"
+
+1457889946 source:c:\users\pyrun\documents\projekte 2015\starlight\src\front\front.cpp
+	"front.h"
+
+1458322618 c:\users\pyrun\documents\projekte 2015\starlight\src\front\front.h
+	"../engine/graphic.h"
+	"front_image.h"
+
+1457910008 c:\users\pyrun\documents\projekte 2015\starlight\src\front\front_image.h
+
+1457909978 source:c:\users\pyrun\documents\projekte 2015\starlight\src\front\front_image.cpp
+	"front_image.h"
+
+1462713878 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+
+1462713878 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1462713878 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1462713878 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1462713878 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1462713878 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config_psp.h
+	"SDL_platform.h"
+
+1462713878 c:\users\thelightalex\documents\projekte 2015\sdl2_64\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1456097640 c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\\cell_image.h
+
+1458322618 c:\users\thelightalex\documents\projekte 2015\starlight\src\front\front.h
+	"../engine/graphic.h"
+	"front_image.h"
+
+1457910008 c:\users\thelightalex\documents\projekte 2015\starlight\src\front\front_image.h
+
+1456356130 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\transmission.cpp
+	"transmission.h"
+
+1456356029 c:\users\thelightalex\documents\projekte 2015\starlight\src\engine\transmission.h
+	<stdio.h>
+
+1456097640 c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\cell_image.h
+
+1456181610 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\cell_image.cpp
+	"cell_image.h"
+
+1456429413 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\team.cpp
+	"team.h"
+
+1456429411 c:\users\thelightalex\documents\projekte 2015\starlight\src\entity\team.h
+	"entity.h"
+
+1457889946 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\front\front.cpp
+	"front.h"
+
+1457909978 source:c:\users\thelightalex\documents\projekte 2015\starlight\src\front\front_image.cpp
+	"front_image.h"
+
