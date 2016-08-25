@@ -21,9 +21,7 @@
 				</Compiler>
 				<Linker>
 					<Add option="-lmingw32 -lSDL2main -lSDL2  -lSDL2_image -lSDL2_net" />
-					<Add option="-static-libgcc -static-libstdc++" />
-					<Add option="-lpthread" />
-					<Add directory="../../SDL2_64/lib64" />
+					<Add directory="../../SDL2_64/lib" />
 				</Linker>
 			</Target>
 			<Target title="Release">

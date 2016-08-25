@@ -18,12 +18,16 @@ public:
     virtual ~Engine();
     void Process();
 protected:
+    void ControlMove();
 private:
     bool m_quit;
 
     std::string m_ip;
     bool m_server;
 
+    bool m_move_camera;
+    int m_mouse_x;
+    int m_mouse_y;
 
     Graphic* m_graphic;
     Framenrate* m_framenrate;

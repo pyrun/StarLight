@@ -1,7 +1,7 @@
 #include "graphic.h"
 
-
 #include <SDL2/SDL_image.h>
+#include "math.h"
 
 Graphic::Graphic( int Width, int Height) {
     m_display = new Display( Width, Height, "Start game...");

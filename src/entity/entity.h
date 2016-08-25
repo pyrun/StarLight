@@ -2,6 +2,7 @@
 #define ENTITY_H
 
 #include <stdio.h>
+#include <math.h>
 
 #include "cell.h"
 #include "../front/front.h"

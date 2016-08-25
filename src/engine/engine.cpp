@@ -65,6 +65,28 @@ Engine::~Engine() {
     delete m_graphic;
 }
 
+void Engine::ControlMove() {
+    bool t_mouse =  m_input.Map.Place;
+    bool t_mouse_old =  m_input.MapOld.Place;
+
+    if( t_mouse && !t_mouse_old) {
+        m_mouse_x = m_input.Map.MousePos.m_x + m_graphic->GetCamera()->GetX();
+        m_mouse_y = m_input.Map.MousePos.m_y + m_graphic->GetCamera()->GetY();
+        m_move_camera = true;
+        m_input.grabMouse( true, m_graphic->GetWindow(), m_graphic->GetWidth()/2, m_graphic->GetHeight()/2);
+    }
+
+    if( m_move_camera) {
+        float t_factor = 800;
+        m_graphic->GetCamera()->move( -m_input.Map.MousePos.c_x*t_factor, -m_input.Map.MousePos.c_y*t_factor);
+    }
+
+    if( !t_mouse && t_mouse_old) {
+        m_input.grabMouse( false, m_graphic->GetWindow(), m_mouse_x, m_mouse_y);
+        m_move_camera = false;
+    }
+}
+
 void Engine::Process() {
 
     Entity* t_ent = m_entity->createEntity( mothercell, 300, 300, red);
@@ -102,6 +124,7 @@ void Engine::Process() {
             d_x += 1;
         if( m_input.Map.Left)
             d_x -= 1;
+        ControlMove();
         m_graphic->GetCamera()->move( -d_x, -d_y);
         // Render entity
         m_control->Draw( m_graphic);

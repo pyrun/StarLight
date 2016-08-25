@@ -1,5 +1,8 @@
 #include "input.h"
 
+#include "stdio.h"
+#include "math.h"
+
 Input::Input() {
     GrabMouse = false;
     Reset(); // anfangswerte reseten

@@ -43,6 +43,15 @@ public:
     InputMap MapOld;
 
     int NewW, NewH;
+
+    void grabMouse( bool b_set, SDL_Window *Win, float W, float H) {
+        GrabMouse = b_set;
+        // toggle mouse view
+        SDL_ShowCursor(!b_set);
+
+        // wrap middle
+        SDL_WarpMouseInWindow( Win, (float)W, (float)H);
+    }
 protected:
 private:
     bool GrabMouse;

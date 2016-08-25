@@ -1,5 +1,7 @@
 #include "NetNight.hpp"
 
+#include "string.h"
+
 NetFight::NetFight() {
     isServer = false; // Flag zurücksetzten
     // SDL Net starten

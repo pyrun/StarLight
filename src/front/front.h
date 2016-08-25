@@ -1,6 +1,8 @@
 #ifndef FRONT_H
 #define FRONT_H
 
+#include "string.h"
+
 #include "../engine/graphic.h"
 #include "front_image.h"
 
@@ -9,7 +11,7 @@ public:
     Front( Graphic* graphic);
     virtual ~Front();
     void drawSentence( Graphic* graphic, char* text, int pos_x, int pos_y) {
-        for( int i = 0; i <= (int)strlen( text);i++) {
+        for( int i = 0; i <= (int)strlen( text); i++) {
             drawLetter( graphic, text[i], pos_x+(i*(front_text_width/2.25) ), pos_y);
         }
     }
