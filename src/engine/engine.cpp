@@ -78,7 +78,7 @@ void Engine::ControlMove() {
 
     if( m_move_camera) {
         float t_factor = 800;
-        m_graphic->GetCamera()->move( -m_input.Map.MousePos.c_x*t_factor, -m_input.Map.MousePos.c_y*t_factor);
+        m_graphic->GetCamera()->move( (m_input.Map.MousePos.c_x*t_factor), (m_input.Map.MousePos.c_y*t_factor));
     }
 
     if( !t_mouse && t_mouse_old) {
